@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhilash K R</h1>
 <h3 align="center">A passionate software Engineer from India</h3>
 
-![image](https://github.com/Abhilash-K-R/Abhilash-K-R/assets/168660984/4235707f-0f27-4c3e-ac1b-7c191c7329f9)
+<img align="right" alt="coding" width="400" src="https://rajacepat.com/assets/frontend/img/webdev.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhilash-k-r&label=Profile%20views&color=0e75b6&style=flat" alt="abhilash-k-r" /> </p>
