@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **abhilashkr203@gmail.com**
 
-- ⚡Self **I am Coder**
+- ⚡Self **I am Developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
