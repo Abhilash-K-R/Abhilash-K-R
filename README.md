@@ -1,25 +1,142 @@
-<h1 align="center">Hi 👋, I'm Abhilash K R</h1>
-<h3 align="center">A passionate software Engineer from India</h3>
+<!-- Header -->
+<div align="center">
 
-<img align="right" alt="coding" width="400" src="https://rajacepat.com/assets/frontend/img/webdev.gif">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abhilash%20K%20R&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20India%20%F0%9F%87%AE%F0%9F%87%B3&descAlignY=60&descSize=20" />
 
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhilash-k-r&label=Profile%20views&color=0e75b6&style=flat" alt="abhilash-k-r" /> </p>
-
-- 📫 How to reach me **abhilashkr203@gmail.com**
-
-- ⚡Self **I am Developer**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.hackerrank.com/@abhilashkr203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@abhilashkr203" height="30" width="40" /></a>
+<!-- Typing animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Full-Stack+Web+Developer+%7C+MERN+Stack;Building+Real+Production+Apps+%F0%9F%9A%80;React+%2B+Node.js+%2B+MongoDB+%2B+TypeScript;Turning+Ideas+into+Deployed+Products;Always+Learning.+Always+Shipping." />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<!-- Badges row -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhilash-k-r&label=Profile+Views&color=00d9ff&style=for-the-badge" />
+  <a href="mailto:abhilashkr203@gmail.com">
+    <img src="https://img.shields.io/badge/Email-abhilashkr203-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Open%20To-Opportunities-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-India-FF9933?style=for-the-badge&logo=google-maps&logoColor=white" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhilash-k-r&show_icons=true&locale=en&layout=compact" alt="abhilash-k-r" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhilash-k-r&show_icons=true&locale=en" alt="abhilash-k-r" /></p>
+## 🧑‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhilash-k-r&" alt="abhilash-k-r" /></p>
+```yaml
+Name        : Abhilash K R
+Role        : Full-Stack Web Developer
+Education   : Computer Science Engineering (2027 batch)
+Based In    : India 🇮🇳
+
+Stack:
+  Frontend  : React · TypeScript · Vite · Tailwind CSS
+  Backend   : Node.js · Express.js · REST APIs
+  Database  : MongoDB · MySQL
+  Tools     : Git · GitHub · VS Code
+
+What I build:
+  - Full-stack MERN web applications
+  - REST APIs with authentication & deployment
+  - AI-integrated web solutions
+
+Currently:
+  - Sharpening DSA & system design fundamentals
+  - Deepening backend architecture knowledge
+  - Preparing for campus placements (2027)
+
+Mindset     : Ship fast. Learn from it. Ship better.
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,c,html,css" />
+</p>
+
+### ⚛️ Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
+</p>
+
+### ⚙️ Backend & Database
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
+
+### 🔧 Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
+
+---
+
+## 🚀 What I'm Currently Working On
+
+```bash
+$ whoami --projects
+
+📦 Full-stack MERN app — frontend + backend + deployment
+🔐 JWT auth systems with protected REST routes
+🧠 DSA practice for 2027 placements
+⚡ Integrating AI tools into web development workflow
+```
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhilash-k-r&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhilash-k-r&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhilash-k-r&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook" />
+</p>
+
+---
+
+## 🎯 2026–2027 Goals
+
+- 🧠 Master DSA for campus placements
+- 🏗️ Build 3+ production-grade full-stack projects
+- ☁️ Learn cloud deployment (AWS / Railway / Vercel)
+- 🔥 Contribute to open source
+- 💼 Land a strong Software Engineering internship
+
+---
+
+## 💡 Developer Philosophy
+
+> *"Don't just learn to code.*
+> *Learn to build, deploy, and iterate.*
+> *Real growth happens after you hit 'git push'."*
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="mailto:abhilashkr203@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-abhilashkr203%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/@abhilashkr203">
+    <img src="https://img.shields.io/badge/HackerRank-abhilashkr203-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+
+### ⚡ Always Learning • Always Building • Always Shipping ⚡
+
+</div>
