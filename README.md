@@ -126,8 +126,11 @@ $ whoami --projects
   <a href="mailto:abhilashkr203@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-abhilashkr203%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.hackerrank.com/@abhilashkr203">
-    <img src="https://img.shields.io/badge/HackerRank-abhilashkr203-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  <a href="https://www.linkedin.com/in/mr-abhilash-k-r">
+    <img src="https://img.shields.io/badge/LinkedIn-Abhilash%20K%20R-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/srnZ8R3bBc/">
+    <img src="https://img.shields.io/badge/LeetCode-Abhilash%20K%20R-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
 
