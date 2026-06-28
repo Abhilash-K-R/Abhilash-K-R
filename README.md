@@ -88,6 +88,30 @@ $ whoami --projects
 
 ---
 
+## 🚀 Featured Projects
+
+### 🛰️ Radar Signal Classification Simulator
+`Solo Project`
+
+```yaml
+What it does:
+  - Generates synthetic radar signals across multiple classes
+  - Extracts features using FFT-based signal processing
+  - Classifies signals using 3 trained ML models
+  - Best performer: Random Forest (~95.6% accuracy)
+  - Wrapped in an interactive Streamlit dashboard
+
+Stack       : Python · scikit-learn · NumPy · SciPy · Streamlit
+Status      : v1.0 released · v1.1 in progress (CNN, SNR testing)
+Built for   : DRDO–LRDE Internship Application 2026-27
+```
+
+> A signal-processing pipeline that takes raw radar-like signals, pulls out meaningful features through FFT, and classifies them — built with disciplined Git practices (Conventional Commits + versioned releases).
+
+---
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
