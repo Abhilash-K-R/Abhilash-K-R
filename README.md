@@ -103,11 +103,11 @@ What it does:
   - Wrapped in an interactive Streamlit dashboard
 
 Stack       : Python · scikit-learn · NumPy · SciPy · Streamlit
-Status      : v1.0 released · v1.1 in progress (CNN, SNR testing)
+Status      : v1.0 released · v1.1 released (CNN, SNR testing)
 Built for   : DRDO–LRDE Internship Application 2026-27
 ```
 
-> A signal-processing pipeline that takes raw radar-like signals, pulls out meaningful features through FFT, and classifies them — built with disciplined Git practices (Conventional Commits + versioned releases).
+> A signal-processing pipeline that takes Synthetic dataset radar-like signals, pulls out meaningful features through FFT, and classifies them — built with disciplined Git practices (Conventional Commits + versioned releases).
 
 ---
 
