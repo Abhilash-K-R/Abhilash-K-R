@@ -109,10 +109,17 @@ Built for   : DRDO–LRDE Internship Application 2026-27
 
 > A signal-processing pipeline that takes Synthetic dataset radar-like signals, pulls out meaningful features through FFT, and classifies them — built with disciplined Git practices (Conventional Commits + versioned releases).
 
----
 
 ---
 
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=abhilash-k-r&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+  <!--
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -120,12 +127,13 @@ Built for   : DRDO–LRDE Internship Application 2026-27
 </p>
 
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=abhilash-k-r&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" /> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=abhilash-k-r&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" /> 
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhilash-k-r&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook" />
 </p>
 
 ---
+-->
 
 ## 🎯 2026–2027 Goals
 
