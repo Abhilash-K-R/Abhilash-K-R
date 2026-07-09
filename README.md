@@ -56,12 +56,15 @@ Mindset     : Ship fast. Learn from it. Ship better.
 
 ### 👨‍💻 Languages
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,python,c,html,css" />
+<!-- <img src="https://skillicons.dev/icons?i=js,ts,python,c,html,css" /> -->
+<img src="https://skillicons.dev/icons?i=python,html,css" />
 </p>
 
 ### ⚛️ Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
+<!-- <img src="https://skillicons.dev/icons?i=react,vite,tailwind" /> -->
+<img src="https://skillicons.dev/icons?i=react,streamlit" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
 </p>
 
 ### ⚙️ Backend & Database
@@ -71,7 +74,7 @@ Mindset     : Ship fast. Learn from it. Ship better.
 
 ### 🔧 Tools & Platforms
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
@@ -98,8 +101,9 @@ $ whoami --projects
 What it does:
   - Generates synthetic radar signals across multiple classes
   - Extracts features using FFT-based signal processing
-  - Classifies signals using 3 trained ML models
-  - Best performer: Random Forest (~95.6% accuracy)
+  - Classifies signals using 4 trained ML models (Random Forest, SVM, KNN, CNN)
+  - Compares model performance under clean and noisy (SNR) conditions
+  - Identified Random Forest as the most robust model under noise
   - Wrapped in an interactive Streamlit dashboard
 
 Stack       : Python · scikit-learn · NumPy · SciPy · Streamlit
