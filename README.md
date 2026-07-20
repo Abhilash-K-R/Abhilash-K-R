@@ -76,7 +76,6 @@ Mindset     : Ship fast. Learn from it. Ship better.
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
-
 ---
 
 ## 🚀 What I'm Currently Working On
