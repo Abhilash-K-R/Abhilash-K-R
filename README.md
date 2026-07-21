@@ -107,8 +107,9 @@ What it does:
 
 Stack       : Python · scikit-learn · NumPy · SciPy · Streamlit
 Status      : v1.0 released · v1.1 released (CNN, SNR testing)
-Built for   : DRDO–LRDE Internship Application 2026-27
+
 ```
+<!-- how to enable chatgpt to come in mini when press alt+space -->
 
 > A signal-processing pipeline that takes Synthetic dataset radar-like signals, pulls out meaningful features through FFT, and classifies them — built with disciplined Git practices (Conventional Commits + versioned releases).
 
