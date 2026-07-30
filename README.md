@@ -70,7 +70,7 @@ Mindset     : Ship fast. Learn from it. Ship better.
 
 ### ⚙️ Backend & Database
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+<!-- <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" /> -->
 </p>
 
 ### 🔧 Tools & Platforms
