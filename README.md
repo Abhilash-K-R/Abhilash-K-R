@@ -66,12 +66,12 @@ Mindset     : Ship fast. Learn from it. Ship better.
 <img src="https://skillicons.dev/icons?i=react,streamlit" />
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
 </p>
-
+<!-- 
 ### ⚙️ Backend & Database
 <p>
-<!-- <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" /> -->
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" /> 
 </p>
-
+-->
 ### 🔧 Tools & Platforms
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
