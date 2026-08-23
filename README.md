@@ -1,4 +1,3 @@
-
 <!-- Header -->
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abhilash%20K%20R&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20India%20%F0%9F%87%AE%F0%9F%87%B3&descAlignY=60&descSize=20" />
