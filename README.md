@@ -4,12 +4,9 @@
 
 </div>
 <!-- Typing  animation  -->
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Full-Stack+Web+Developer+%7C+MERN+Stack;Building+Real+Production+Apps+%F0%9F%9A%80;React+%2B+Node.js+%2B+MongoDB+%2B+TypeScript;Turning+Ideas+into+Deployed+Products;Always+Learning.+Always+Shipping." />
 </p>
-
-
 <!-- Badges row -->
 
 <p align="center">
@@ -20,9 +17,7 @@
   <img src="https://img.shields.io/badge/Open%20To-Opportunities-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Location-India-FF9933?style=for-the-badge&logo=google-maps&logoColor=white" />
 </p>
-
 ---
-
 ## 🧑‍💻 About Me
 
 ```yaml
