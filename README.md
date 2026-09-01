@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/Open%20To-Opportunities-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Location-India-FF9933?style=for-the-badge&logo=google-maps&logoColor=white" />
 </p>
+
 ---
 ## 🧑‍💻 About Me
 
