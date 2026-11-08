@@ -41,7 +41,7 @@ What I build:
   - AI-integrated web solutions
 
 Currently:
-  - Sharpening DSA & system design fundamentals
+  - Sharpening DSA and system design fundamentals
   - Deepening backend architecture knowledge
   - Preparing for campus placements (2027)
 
