@@ -241,6 +241,7 @@ Status      : v1.0 released · v1.1 released
 
 ---
 
+<!--
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -250,6 +251,7 @@ Status      : v1.0 released · v1.1 released
 </p>
 
 ---
+-->
 
 ## 🎯 2026–2027 Goals
 
