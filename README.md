@@ -163,7 +163,7 @@ What it does:
 Focus       : Machine Learning · Backend · Full-Stack Development
 ```
 
-🔗 [GitHub Repository](ADD_MEDIFLOW_REPOSITORY_URL) | [Live Demo](ADD_MEDIFLOW_LIVE_URL)
+🔗 [GitHub Repository](https://github.com/Abhilash-K-R/smart-hospital-queue-Major-Project.git) | [Live Demo](https://mediflow-patient-app.vercel.app/)
 
 ---
 
@@ -185,11 +185,11 @@ What it does:
 Focus       : Deep Learning · Computer Vision · Full-Stack Development
 ```
 
-🔗 [GitHub Repository](ADD_AGRIVISION_REPOSITORY_URL) | [Live Demo](ADD_AGRIVISION_LIVE_URL)
+<!--🔗 [GitHub Repository](ADD_AGRIVISION_REPOSITORY_URL) | [Live Demo](ADD_AGRIVISION_LIVE_URL) -->
 
 ---
 
-### 🛰️ 3. Radar Signal Classification Simulator
+<!--### 🛰️ 3. Radar Signal Classification Simulator
 
 `Solo Machine Learning Project`
 
@@ -212,7 +212,7 @@ Status      : v1.0 released · v1.1 released
 🔗 [GitHub Repository](https://github.com/Abhilash-K-R/Radar-Signal-Classifier)
 
 > A signal-processing pipeline that generates synthetic radar signals, extracts meaningful features through FFT and classifies them using machine learning models.
-
+-->
 ---
 
 ## 🎓 Professional Training & Certifications
